@@ -73,7 +73,7 @@ ETH SEOUL 2022 - Creativity Track Winner ```(Issued by Kryptoseoul and Dystopia 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=crypt0summer&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
 <!-- My snake -->
-<img src="https://github.com/crypt0summer/crypt0summer/blob/output/mysnake.svg" width="100%">
+<!-- <img src="https://github.com/crypt0summer/crypt0summer/blob/output/mysnake.svg" width="100%"> -->
 
 <br><br>
 <!-- Hit counter -->
