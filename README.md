@@ -35,7 +35,7 @@ A Web Developer who handles both backend and frontend
 ## WORK EXPERIENCE
 CJ OliveNetworks, Seoul/South Korea ```(Mar 2023 - Present)```  
 LOVO AI, Seoul/South Korea ```(Jun 2022 - Feb 2023)```   
-CUBOX ```(Jan 2019 - Jun 2021)```
+CUBOX, Seoul/South Korea  ```(Jan 2019 - Jun 2021)```
 
 ## Honors & Awards
 Solana Sandstorm 1st prize : Mobile & NFT track ```(Issued by Solana · Feb 2023)```    
