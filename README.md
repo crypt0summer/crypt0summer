@@ -19,7 +19,7 @@
 </span> -->
   <span>
   <a href="https://www.linkedin.com/in/april-sewon-kim/?locale=en_US">
-    <img src="https://img.shields.io/badge/LinkedIn -red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn%20-red?style=plastic&logo=GitHub%20Sponsors&logoColor=white"/> 
   </a>
 </span>
 <span>
